@@ -1,2 +1,2 @@
 # Time-Series-Analysis
-In this Repo, I am going to do two experiments regarding time series analysis.
+In this Repo, I am going to use LSTM to predict the International Airline Production
